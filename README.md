@@ -1,5 +1,5 @@
 # helllo-world
 
-kissing_closed_eyes:
+:smirk:
 
 Just another repository
